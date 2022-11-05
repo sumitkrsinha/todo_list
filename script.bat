@@ -1,0 +1,1 @@
+pyinstaller --onedir --onefile --name="todolist" --icon="task.png" --windowed todoList.py
